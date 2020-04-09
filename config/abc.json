@@ -1,8 +1,8 @@
 [
 	{
-		"module" : "dirlist.py"
+		"module" : "dirlist"
 	},
 	{
-		"module" : "environment.py"
+		"module" : "environment"
 	}
 ]
